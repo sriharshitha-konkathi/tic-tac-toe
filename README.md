@@ -3,7 +3,8 @@
 A classic Tic Tac Toe game built with React.
 
 ## 🚀 Live Demo
-🔴 **[Play Live →](https://tic-tac-toe-harshitha.vercel.app)**
+👉 [https://tic-tac-toe-harshitha.vercel.app](https://tic-tac-toe-harshitha.vercel.app)
+
 
 
 ## ✨ Features
